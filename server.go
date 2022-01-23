@@ -11,6 +11,7 @@ import (
 	"github.com/yuta519/getting_started_gqlgen/graph/generated"
 )
 
+// port numbers
 const defaultPort = "8080"
 
 func main() {
